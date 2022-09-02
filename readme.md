@@ -3,9 +3,9 @@
 **ffikri/ffikri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Hi, WELCOME MY PROFILE! 😄
-
-//![Repos Badge](https://badges.pufler.dev/repos/ffikri?style=for-the-badge&color=blue)
-
+<!--
+![Repos Badge](https://badges.pufler.dev/repos/ffikri?style=for-the-badge&color=blue)
+-->
 
 <h3><b>💬 ABOUT ME :<b></h3>
 <details close>
