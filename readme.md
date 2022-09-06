@@ -4,7 +4,7 @@
 -->
 ## Hi, WELCOME MY PROFILE! 😄
 <!--
-![Repos Badge](https://badges.pufler.dev/repos/ffikri?style=for-the-badge&color=blue)
+![](https://visitor-badge.glitch.me/badge?page_id=ffikri)
 -->
 
 <h3><b>💬 ABOUT ME :<b></h3>
